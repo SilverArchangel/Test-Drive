@@ -1,3 +1,4 @@
 It's a real test drive
 This is test 1.0
 This is time for Git Gui
+You should complete first feature-branch commit
